@@ -90,4 +90,13 @@
 - 📚 Book lover & collector  
 - 🌿 Inspiration from nature, traveling & creative surroundings  
 - 🎨 Creative soul: watercolor painting & embroidery (occasionally)  
-- ✨ Calm and thoughtful personality, finding balance between work & creativity  
+- ✨ Calm and thoughtful personality, finding balance between work & creativity
+
+---
+
+### 📩 How to Reach Me
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg =24x24)](https://www.linkedin.com/in/ankotliar)  
+[![Telegram](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg =24x24)](https://t.me/anna_kotli)  
+[![Instagram](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg =24x24)](https://www.instagram.com/anna_ktlr/)  
+[![Email](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg =24x24)](mailto:kotlyaranya1771@gmail.com)
+
