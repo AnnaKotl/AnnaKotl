@@ -14,35 +14,35 @@
 
 ---
 
-### 🔧 Tech Stack 💻 
+### 🔧 Tech Stack 💻
 
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg =40x40)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg)
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg)
-![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)
-![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg)
-![Mongoose](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg)
-![Vite](https://vitejs.dev/logo.svg)
-![Swagger](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg)
-![Axios](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-original.svg)
-![CORS](https://img.icons8.com/ios-filled/50/000000/cors.png)
-![Mailjet](https://img.icons8.com/color/48/000000/mailjet.png)
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg)
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
-![Scrum](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/agile/agile-plain.svg)
-![Trello](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg)
-![OOP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-pink?style=for-the-badge&logo=vite&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-brightgreen?style=for-the-badge&logo=swagger&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-blue?style=for-the-badge&logo=axios&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-lightgrey?style=for-the-badge)
+![Mailjet](https://img.shields.io/badge/Mailjet-blue?style=for-the-badge&logo=mailjet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-blueviolet?style=for-the-badge)
+![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-darkred?style=for-the-badge)
 
 ---
 
-### 📱
+### 📱 iOS Stack
 
-![Swift](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg)
-![SwiftUI](https://img.icons8.com/color/48/000000/swiftui.png)
-![Xcode](https://img.icons8.com/color/48/000000/xcode.png)
+![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-lightblue?style=for-the-badge&logo=xcode&logoColor=white)
 
 ---
 
