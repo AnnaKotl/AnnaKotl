@@ -14,17 +14,7 @@
 
 ---
 
-### 🇺🇦 Про мене
-- 🎓 Сертифікований Full Stack Developer (GoIT, 2023)  
-- 💻 Досвід у **frontend + backend розробці**: HTML, CSS, JavaScript, React, Redux, Node.js, MongoDB  
-- 📱 Вивчаю iOS-розробку: **Swift, SwiftUI, Xcode**  
-- 🎨 Сертифікат з **Design Basics**  
-- 🎓 Магістр фармацевтичних наук з 8-річним досвідом роботи, з яких **3 роки — на управлінській посаді** у фармацевтичній сфері  
-- 🌱 Постійно розвиваю свої навички та прагну до нових викликів
-
----
-
-### 🔧 Tech Stack (FSD)
+### 🔧 Tech Stack (FSD 💻)
 
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
@@ -38,7 +28,9 @@
 ![Git](https://img.shields.io/badge/Git-red)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
 
-### 🔧 Tech Stack (IOS)
+---
+
+### 🔧 Tech Stack (IOS 📱)
 
 ![Swift](https://img.shields.io/badge/Swift-orange)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue)
@@ -82,12 +74,3 @@
 - 🌿 Inspiration from nature, traveling & creative surroundings  
 - 🎨 Creative soul: watercolor painting & embroidery (occasionally)  
 - ✨ Calm and thoughtful personality, finding balance between work & creativity  
-
----
-
-### 🇺🇦 Хобі та інтереси
-- 🧘‍♀️ Дисципліновано щодня виконую фізичні вправи та займаюсь йогою  
-- 📚 Люблю та колекціоную книги  
-- 🌿 Черпаю натхнення з оточення: природи та подорожей  
-- 🎨 Час від часу займаюсь творчістю: акварельний живопис, вишивка  
-- ✨ Спокійна та творча особистість, що цінує баланс  
