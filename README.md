@@ -16,7 +16,7 @@
 
 ### 🔧 Tech Stack 💻 
 
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg =40x40)
 ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg)
 ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)
 ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
