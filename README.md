@@ -5,6 +5,7 @@
 ---
 
 ### 🚀 About Me
+
 - 🎓 Certified Full Stack Developer (GoIT, 2023)  
 - 💻 Experienced in **frontend + backend development**: HTML, CSS, JavaScript, React, Redux, Node.js, MongoDB  
 - 📱 Learning iOS development: **Swift, SwiftUI, Xcode**  
@@ -64,17 +65,20 @@
 ---
 
 ### 📊 GitHub Stats
+
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaKotl&show_icons=true&theme=radical)  
 
 ---
 
 ### 🏆 Certificates
+
 - Full Stack Developer (GoIT, 2023)  
 - Design Basics (Creative Practice, 2022)  
 
 ---
 
 ### 💡 Soft Skills
+
 - Team Lead & Scrum Master experience  
 - Project management (Trello, task delegation, sprint planning)  
 - Object-Oriented Programming (OOP) mindset  
@@ -86,6 +90,7 @@
 ---
 
 ### 🎨 Hobbies & Interests
+
 - 🧘‍♀️ Discipline: daily physical activity & yoga practice  
 - 📚 Book lover & collector  
 - 🌿 Inspiration from nature, traveling & creative surroundings  
@@ -96,16 +101,7 @@
 
 ### 📩 How to Reach Me
 
-<a href="https://www.linkedin.com/in/ankotliar" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
-</a>
-<a href="https://t.me/anna_kotli" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="32" height="32" alt="Telegram" />
-</a>
-<a href="https://www.instagram.com/anna_ktlr/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" height="32" alt="Instagram" />
-</a>
-<a href="mailto:kotlyaranya1771@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" height="32" alt="Email" />
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankotliar) 
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anna_kotli) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anna_ktlr/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotlyaranya1771@gmail.com)
