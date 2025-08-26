@@ -14,7 +14,7 @@
 
 ---
 
-## 🇺🇦 Про мене
+### 🇺🇦 Про мене
 - 🎓 Сертифікований Full Stack Developer (GoIT, 2023)  
 - 💻 Досвід у **frontend + backend розробці**: HTML, CSS, JavaScript, React, Redux, Node.js, MongoDB  
 - 📱 Вивчаю iOS-розробку: **Swift, SwiftUI, Xcode**  
@@ -24,8 +24,8 @@
 
 ---
 
-### 🔧 Tech Stack
-💻
+### 🔧 Tech Stack (FSD)
+
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
@@ -37,7 +37,9 @@
 ![API](https://img.shields.io/badge/API-integration-lightgrey)
 ![Git](https://img.shields.io/badge/Git-red)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
-📱
+
+### 🔧 Tech Stack (IOS)
+
 ![Swift](https://img.shields.io/badge/Swift-orange)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue)
 ![Xcode](https://img.shields.io/badge/Xcode-lightblue)
