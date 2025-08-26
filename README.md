@@ -99,4 +99,3 @@
 [![Telegram](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg =24x24)](https://t.me/anna_kotli)  
 [![Instagram](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg =24x24)](https://www.instagram.com/anna_ktlr/)  
 [![Email](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg =24x24)](mailto:kotlyaranya1771@gmail.com)
-
