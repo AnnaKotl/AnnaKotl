@@ -14,30 +14,35 @@
 
 ---
 
-### 🔧 Tech Stack (FSD 💻)
+### 🔧 Tech Stack 💻 
 
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![React](https://img.shields.io/badge/React-blue)
-![Redux](https://img.shields.io/badge/Redux-purple)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
-![Vite](https://img.shields.io/badge/Vite-pink)
-![API](https://img.shields.io/badge/API-integration-lightgrey)
-![Git](https://img.shields.io/badge/Git-red)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![Scrum](https://img.shields.io/badge/Scrum-Agile-blueviolet)
-![Trello](https://img.shields.io/badge/Trello-Project_Management-026AA7)
-![OOP](https://img.shields.io/badge/OOP-Concepts-darkred)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg)
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg)
+![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg)
+![Mongoose](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg)
+![Vite](https://vitejs.dev/logo.svg)
+![Swagger](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg)
+![Axios](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-original.svg)
+![CORS](https://img.icons8.com/ios-filled/50/000000/cors.png)
+![Mailjet](https://img.icons8.com/color/48/000000/mailjet.png)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg)
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+![Scrum](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/agile/agile-plain.svg)
+![Trello](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg)
+![OOP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
 
 ---
 
-### 🔧 Tech Stack (iOS 📱)
+### 📱
 
-![Swift](https://img.shields.io/badge/Swift-orange)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-blue)
-![Xcode](https://img.shields.io/badge/Xcode-lightblue)
+![Swift](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg)
+![SwiftUI](https://img.icons8.com/color/48/000000/swiftui.png)
+![Xcode](https://img.icons8.com/color/48/000000/xcode.png)
 
 ---
 
