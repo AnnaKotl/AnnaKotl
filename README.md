@@ -46,7 +46,7 @@
 | Project | Description & Role | Tech | Live Demo |
 |--------|------------------|------|-----------|
 | [EchoApp](https://github.com/AnnaKotl/echoapp) | First commercial project | HTML, CSS, JS, Vite, MongoDB, Mailjet, Admin Panel, Render, Hosting | [🔗 Demo](https://echocode.app/) |
-| [Food Diary](https://github.com/Ne1rem/food_diary) | GoIT final team project, Scrum Master | JS, React, Vite, Node, MongoDB, API, Frontend + Backend | [🔗 Demo](https://ne1rem.github.io/food_diary/) |
+| [HealthyHub](https://github.com/Ne1rem/food_diary) | GoIT final team project, Scrum Master | JS, React, Vite, Node, MongoDB, API, Frontend + Backend | [🔗 Demo](https://ne1rem.github.io/food_diary/) |
 | [Car Rental](https://github.com/AnnaKotl/rentcar) | GoIT solo project based on real test task | JS, React, Vite, API | [🔗 Demo](https://annakotl.github.io/RentCar/) |
 | [Trending movies](https://github.com/AnnaKotl/goit-react-hw-05-movies) | GoIT movie search pet project | JS, React, API | [🔗 Demo](https://annakotl.github.io/goit-react-hw-05-movies/) |
 | [upGrate](https://github.com/AnnaKotl/upGrate) | GoIT team project, Team Lead | HTML, CSS, JS, API | [🔗 Demo](https://annakotl.github.io/upGrate/) |
