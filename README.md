@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Anna Kotliar  
+# Hi there 🫰🏻, I'm Anna Kotliar (Анна Котляр)
 
 💻 Full Stack Developer | 📱 Beginner iOS Developer (Swift, SwiftUI in progress)  
 
@@ -8,9 +8,9 @@
 - 🎓 Certified Full Stack Developer (GoIT, 2023)  
 - 💻 Experienced in **frontend + backend development**: HTML, CSS, JavaScript, React, Redux, Node.js, MongoDB  
 - 📱 Learning iOS development: **Swift, SwiftUI, Xcode**  
-- 🎨 Certificate in **Design Basics**  
-- 🎓 Master of Pharmaceutical Sciences with 8 years of experience, **3 years in a managerial position** in the pharmaceutical field  
-- 🌱 Always eager to grow, learn, and take on new challenges
+- 🎨 Certificate in **Design Basics** (Creative Practice, 2022)  
+- 🎓 Master of Pharmaceutical Sciences with 8 years of experience, **4 years in a managerial position** in the pharmaceutical field  
+- 🌱 Always eager to grow, learn, and take on new challenges  
 
 ---
 
@@ -27,10 +27,13 @@
 ![API](https://img.shields.io/badge/API-integration-lightgrey)
 ![Git](https://img.shields.io/badge/Git-red)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
+![Scrum](https://img.shields.io/badge/Scrum-Agile-blueviolet)
+![Trello](https://img.shields.io/badge/Trello-Project_Management-026AA7)
+![OOP](https://img.shields.io/badge/OOP-Concepts-darkred)
 
 ---
 
-### 🔧 Tech Stack (IOS 📱)
+### 🔧 Tech Stack (iOS 📱)
 
 ![Swift](https://img.shields.io/badge/Swift-orange)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue)
@@ -39,12 +42,15 @@
 ---
 
 ### 📂 Featured Projects
-- [**EchoApp**](https://github.com/AnnaKotl/echoapp) – first commercial project with backend and admin panel (HTML, CSS, JS, Vite, Render, MongoDB)
-- [**Final Team Project**](https://github.com/Ne1rem/goit-team-project) – GoIT final project, role **Scrum Master** (React, Vite, Node, Frontend + Backend)  
-- [**RentCar**](https://github.com/AnnaKotl/rentcar) – solo project based on a real test task (JS, React, Vite, API)  
-- [**Movies App**](https://github.com/AnnaKotl/goit-react-hw-05-movies) – movie search pet project (JS, React, API)  
-- [**upGrate**](https://github.com/Ne1rem/upGrate) – GoIT team project, role **Team Lead** (HTML, CSS, JS, API)  
-- [**Food Diary**](https://github.com/Ne1rem/food_diary) – first GoIT team project, role **Scrum Master** (HTML, CSS, JS)  
+
+| Project | Description & Role | Tech | Live Demo |
+|--------|------------------|------|-----------|
+| [EchoApp](https://github.com/AnnaKotl/echoapp) | First commercial project | HTML, CSS, JS, Vite, MongoDB, Mailjet, Admin Panel, Render, Hosting | [🔗 Demo](https://echocode.app/) |
+| [Food Diary](https://github.com/Ne1rem/food_diary) | GoIT final team project, Scrum Master | JS, React, Vite, Node, MongoDB, API, Frontend + Backend | [🔗 Demo](https://ne1rem.github.io/food_diary/) |
+| [Car Rental](https://github.com/AnnaKotl/rentcar) | GoIT solo project based on real test task | JS, React, Vite, API | [🔗 Demo](https://annakotl.github.io/RentCar/) |
+| [Trending movies](https://github.com/AnnaKotl/goit-react-hw-05-movies) | GoIT movie search pet project | JS, React, API | [🔗 Demo](https://annakotl.github.io/goit-react-hw-05-movies/) |
+| [upGrate](https://github.com/AnnaKotl/upGrate) | GoIT team project, Team Lead | HTML, CSS, JS, API | [🔗 Demo](https://annakotl.github.io/upGrate/) |
+| [Simply Chocolate](https://github.com/Ne1rem/goit-team-project) | GoIT first team project, Scrum Master | HTML, CSS, JS | [🔗 Demo](https://ne1rem.github.io/goit-team-project/) |
 
 ---
 
@@ -60,8 +66,10 @@
 ---
 
 ### 💡 Soft Skills
+- Team Lead & Scrum Master experience  
+- Project management (Trello, task delegation, sprint planning)  
+- Object-Oriented Programming (OOP) mindset  
 - Team management & workflow organization  
-- Scrum Master & Team Lead experience  
 - Stress resistance & time management  
 - Strong communication & documentation skills  
 - Microsoft Office (Excel, Word, PowerPoint), financial reporting  
