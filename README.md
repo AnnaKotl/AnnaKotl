@@ -11,6 +11,10 @@
 - 🎨 Certificate in **Design Basics** (Creative Practice, 2022)  
 - 🎓 Master of Pharmaceutical Sciences with 8 years of experience, **4 years in a managerial position** in the pharmaceutical field  
 - 🌱 Always eager to grow, learn, and take on new challenges  
+- 📚 Practicing **iOS development daily**  
+- 🌍 Improving **English skills daily**  
+- 🧩 Enjoy solving **logical problems** and have an **analytical mindset**  
+- ⏱️ **Disciplined** and goal-oriented, love working for results
 
 ---
 
