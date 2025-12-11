@@ -64,12 +64,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaKotl&show_icons=true&theme=radical)  
-
----
-
 ### 🏆 Certificates
 
 - Full Stack Developer (GoIT, 2023)  
