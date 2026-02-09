@@ -5,23 +5,18 @@
 - Building web products in pragmatic teams with a focus on clean architecture and steady delivery  
 - MSc in Pharmaceutical Sciences — 9 years industry / 4 years management  
 - Exploring iOS development  
-- Ukraine · English (B1+)  
-
-<details>
-<summary><strong>Stats</strong></summary>
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnnaKotl&show_icons=true&theme=transparent)
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnnaKotl&layout=compact&theme=transparent)
-![](https://streak-stats.demolab.com?user=AnnaKotl&theme=transparent)
-
-</details>
-
----
+- Ukraine · English (B1+)
 
 ## Certificates
 
 - Full Stack Developer (GoIT, 2023)  
 - Design Basics (Creative Practice, 2022)  
+
+<summary><strong>Stats</strong></summary>
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnnaKotl&show_icons=true&theme=transparent)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnnaKotl&layout=compact&theme=transparent)
+![](https://streak-stats.demolab.com?user=AnnaKotl&theme=transparent)
 
 ---
 
@@ -51,6 +46,8 @@ _UI architecture, rendering strategies, and performance-focused UX._
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white)
 ![React Toastify](https://img.shields.io/badge/React_Toastify-334155?style=flat-square)
 
+---
+
 ### Backend  
 _API design, authentication, validation, and production reliability._
 
@@ -70,6 +67,8 @@ _API design, authentication, validation, and production reliability._
 ![CORS](https://img.shields.io/badge/CORS-64748B?style=flat-square)
 ![dotenv](https://img.shields.io/badge/dotenv-111827?style=flat-square)
 ![Morgan](https://img.shields.io/badge/Morgan-0F172A?style=flat-square)
+
+---
 
 ### DevOps, Testing, Quality & Tooling  
 _Deployments, CI/CD pipelines, testing, and developer experience._
@@ -96,6 +95,8 @@ _Deployments, CI/CD pipelines, testing, and developer experience._
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=black)
 
+---
+
 ### Product & Delivery  
 _Planning, estimation, access control, payments, compliance, design handoff._
 
@@ -110,6 +111,8 @@ _Planning, estimation, access control, payments, compliance, design handoff._
 ![Lubenda](https://img.shields.io/badge/Lubenda-16A34A?style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+---
 
 ### Mobile (in progress)  
 _Exploring native development and mobile workflows._
