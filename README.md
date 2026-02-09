@@ -12,13 +12,11 @@
 - Full Stack Developer (GoIT, 2023)  
 - Design Basics (Creative Practice, 2022)  
 
-<summary><strong>Stats</strong></summary>
+---
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnnaKotl&show_icons=true&theme=transparent)
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnnaKotl&layout=compact&theme=transparent)
 ![](https://streak-stats.demolab.com?user=AnnaKotl&theme=transparent)
-
----
 
 ## Tech Stack
 
