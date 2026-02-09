@@ -12,15 +12,15 @@
 - Full Stack Developer (GoIT, 2023)  
 - Design Basics (Creative Practice, 2022)  
 
----
-
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnnaKotl&show_icons=true&theme=transparent)
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnnaKotl&layout=compact&theme=transparent)
 ![](https://streak-stats.demolab.com?user=AnnaKotl&theme=transparent)
 
-## Tech Stack
+---
 
-### Frontend  
+# Tech Stack
+
+## Frontend  
 _UI architecture, rendering strategies, and performance-focused UX._
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -44,9 +44,7 @@ _UI architecture, rendering strategies, and performance-focused UX._
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white)
 ![React Toastify](https://img.shields.io/badge/React_Toastify-334155?style=flat-square)
 
----
-
-### Backend  
+## Backend  
 _API design, authentication, validation, and production reliability._
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -66,9 +64,7 @@ _API design, authentication, validation, and production reliability._
 ![dotenv](https://img.shields.io/badge/dotenv-111827?style=flat-square)
 ![Morgan](https://img.shields.io/badge/Morgan-0F172A?style=flat-square)
 
----
-
-### DevOps, Testing, Quality & Tooling  
+## DevOps, Testing, Quality & Tooling  
 _Deployments, CI/CD pipelines, testing, and developer experience._
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -93,9 +89,7 @@ _Deployments, CI/CD pipelines, testing, and developer experience._
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=black)
 
----
-
-### Product & Delivery  
+## Product & Delivery  
 _Planning, estimation, access control, payments, compliance, design handoff._
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
@@ -110,9 +104,7 @@ _Planning, estimation, access control, payments, compliance, design handoff._
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 
----
-
-### Mobile (in progress)  
+## Mobile (in progress)  
 _Exploring native development and mobile workflows._
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
@@ -121,7 +113,7 @@ _Exploring native development and mobile workflows._
 
 ---
 
-## Contact
+# Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankotliar)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/anna_kotli)
