@@ -7,19 +7,28 @@
 - Exploring iOS development  
 - Ukraine · English (B1+)  
 
+<details>
+<summary><strong>Stats</strong></summary>
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnnaKotl&show_icons=true&theme=transparent)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnnaKotl&layout=compact&theme=transparent)
+![](https://streak-stats.demolab.com?user=AnnaKotl&theme=transparent)
+
+</details>
+
 ---
 
-## Stats
+## Certificates
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AnnaKotl&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaKotl&layout=compact&theme=transparent)
-![Streak](https://streak-stats.demolab.com?user=AnnaKotl&theme=transparent)
+- Full Stack Developer (GoIT, 2023)  
+- Design Basics (Creative Practice, 2022)  
 
 ---
 
 ## Tech Stack
 
-### Frontend
+### Frontend  
+_UI architecture, rendering strategies, and performance-focused UX._
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -42,7 +51,8 @@
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white)
 ![React Toastify](https://img.shields.io/badge/React_Toastify-334155?style=flat-square)
 
-### Backend
+### Backend  
+_API design, authentication, validation, and production reliability._
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -61,7 +71,8 @@
 ![dotenv](https://img.shields.io/badge/dotenv-111827?style=flat-square)
 ![Morgan](https://img.shields.io/badge/Morgan-0F172A?style=flat-square)
 
-### DevOps, Testing, Quality & Tooling
+### DevOps, Testing, Quality & Tooling  
+_Deployments, CI/CD pipelines, testing, and developer experience._
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -85,8 +96,8 @@
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=black)
 
-
-### Product & Delivery
+### Product & Delivery  
+_Planning, estimation, access control, payments, compliance, design handoff._
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-334155?style=flat-square)
@@ -100,7 +111,8 @@
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-### Mobile (in progress)
+### Mobile (in progress)  
+_Exploring native development and mobile workflows._
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square)
