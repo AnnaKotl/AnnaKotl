@@ -147,7 +147,3 @@ _Enhancing developer productivity, code generation, and problem-solving._
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/anna_kotli)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/anna_ktlr/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kotlyaranya1771@gmail.com)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnnaKotl&bg_color=transparent&hide_border=true&line=2088FF&point=0052CC&font_color=FFFFFF" alt="Activity Graph" />
-</p>
