@@ -1,23 +1,25 @@
 # Anna Kotliar
 
-- Full-Stack Developer at **Echocode** — 2+ years  
-- Team Lead since 2026  
-- **What I do:** Delivering scalable backends, web applications of varying complexity, and cross-platform mobile apps (React Native)  
-- **Strengths:** Project planning, team workflow organization, and a structured, level-headed approach to complex challenges  
-- **Exploring:** Native iOS development in my free time  
-- MSc in Pharmaceutical Sciences — 9 years industry / 4 years management  
+**Software Engineer • Building Scalable Backend & Cloud Systems**
+
+- Full-Stack Developer at **Echocode** — 2+ years
+- **Fullstack Lead** since 2026
+- - **Strongest at:** planning and structure. I like nothing more than taking a vague brief or someone else's legacy mess and turning it into an architecture with clear rules and clear boundaries — whether that's a brand-new project or one that badly needs reordering.
+- **Strengths:** Project planning, team workflow organization, and a structured, level-headed approach to complex challenges
+- **Exploring:** Native iOS development in my free time
+- MSc in Pharmaceutical Sciences — 9 years industry / 4 years management
 - Ukraine · English (B1+)
 
 ## Certificates
 
-- Full Stack Developer (GoIT, 2023)  
-- Design Basics (Creative Practice, 2022)  
+- Full Stack Developer (GoIT, 2023)
+- Design Basics (Creative Practice, 2022)
 
 ---
 
 # Tech Stack
 
-## Frontend  
+## Frontend
 _UI architecture, rendering strategies, and performance-focused UX._
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -26,6 +28,7 @@ _UI architecture, rendering strategies, and performance-focused UX._
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -36,12 +39,16 @@ _UI architecture, rendering strategies, and performance-focused UX._
 ![SSR/ISR](https://img.shields.io/badge/SSR_/_ISR-111827?style=flat-square)
 ![i18n](https://img.shields.io/badge/i18n-334155?style=flat-square)
 ![next-intl](https://img.shields.io/badge/next--intl-111827?style=flat-square)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-111827?style=flat-square)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white)
 ![React Toastify](https://img.shields.io/badge/React_Toastify-334155?style=flat-square)
 
-## Backend  
+## Backend
 _API design, authentication, validation, and production reliability._
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -50,9 +57,9 @@ _API design, authentication, validation, and production reliability._
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Firebase Admin](https://img.shields.io/badge/Firebase_Admin-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square)
 ![Joi](https://img.shields.io/badge/Joi-4B5563?style=flat-square)
@@ -62,19 +69,22 @@ _API design, authentication, validation, and production reliability._
 ![Rate Limit](https://img.shields.io/badge/Rate_Limit-7C3AED?style=flat-square)
 ![Webhooks](https://img.shields.io/badge/Webhooks-2563EB?style=flat-square)
 ![CORS](https://img.shields.io/badge/CORS-64748B?style=flat-square)
+![Diia](https://img.shields.io/badge/Diia_(UA_eID)-1E4FD6?style=flat-square)
 ![dotenv](https://img.shields.io/badge/dotenv-111827?style=flat-square)
 ![Morgan](https://img.shields.io/badge/Morgan-0F172A?style=flat-square)
 
-## DevOps, Testing, Quality & Tooling  
-_Deployments, CI/CD pipelines, testing, and developer experience._
+## DevOps, Testing, Quality & Tooling
+_Deployments, CI/CD pipelines, testing, monitoring, and developer experience._
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-111827?style=flat-square)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=flat-square&logo=namecheap&logoColor=white)
@@ -82,6 +92,7 @@ _Deployments, CI/CD pipelines, testing, and developer experience._
 ![SSL](https://img.shields.io/badge/SSL_TLS-334155?style=flat-square)
 ![Domain Hosting](https://img.shields.io/badge/Domain_&_Hosting-64748B?style=flat-square)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![Husky](https://img.shields.io/badge/Husky-111827?style=flat-square)
@@ -91,9 +102,10 @@ _Deployments, CI/CD pipelines, testing, and developer experience._
 ![Pixel Perfect](https://img.shields.io/badge/Pixel_Perfect-0F172A?style=flat-square)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=black)
 
-## Product & Delivery  
+## Product & Delivery
 _Planning, estimation, access control, payments, analytics, SEO, compliance, design handoff._
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
@@ -105,10 +117,11 @@ _Planning, estimation, access control, payments, analytics, SEO, compliance, des
 ![LiqPay](https://img.shields.io/badge/LiqPay-7CB342?style=flat-square)
 ![SEO](https://img.shields.io/badge/SEO_Optimization-4B5563?style=flat-square)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
 ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black)
 ![Mailjet](https://img.shields.io/badge/Mailjet-0052CC?style=flat-square)
-![Lubenda](https://img.shields.io/badge/Lubenda-16A34A?style=flat-square)
+![Iubenda](https://img.shields.io/badge/Iubenda-16A34A?style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 
@@ -123,6 +136,7 @@ _Building, monetizing, testing, and deploying cross-platform applications._
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
 ![RevenueCat](https://img.shields.io/badge/RevenueCat-F55A42?style=flat-square)
+![AppsFlyer](https://img.shields.io/badge/AppsFlyer-4C12A1?style=flat-square)
 
 ## Exploring (Native iOS)
 _Diving into native Apple ecosystems and mobile workflows._
@@ -131,7 +145,7 @@ _Diving into native Apple ecosystems and mobile workflows._
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
-## AI Workflows & Tooling  
+## AI Workflows & Tooling
 _Enhancing developer productivity, code generation, and problem-solving._
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
