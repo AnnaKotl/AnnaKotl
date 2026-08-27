@@ -4,7 +4,7 @@
 
 - Full-Stack Developer at **Echocode** — 2+ years
 - **Fullstack Lead** since 2026
-- - **Strongest at:** planning and structure. I like nothing more than taking a vague brief or someone else's legacy mess and turning it into an architecture with clear rules and clear boundaries — whether that's a brand-new project or one that badly needs reordering.
+- **Strongest at:** planning and structure. I like nothing more than taking a vague brief or someone else's legacy mess and turning it into an architecture with clear rules and clear boundaries — whether that's a brand-new project or one that badly needs reordering.
 - **Strengths:** Project planning, team workflow organization, and a structured, level-headed approach to complex challenges
 - **Exploring:** Native iOS development in my free time
 - MSc in Pharmaceutical Sciences — 9 years industry / 4 years management
