@@ -72,9 +72,15 @@ _API design, authentication, validation, and production reliability._
 ![dotenv](https://img.shields.io/badge/dotenv-111827?style=flat-square)
 ![Morgan](https://img.shields.io/badge/Morgan-0F172A?style=flat-square)
 
-## DevOps, Testing, Quality & Tooling
-_Deployments, CI/CD pipelines, testing, monitoring, and developer experience._
+## DevOps, Infrastructure, Testing & Tooling
+_Deployments, VPS administration, CI/CD, testing, and production environment setup._
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![Certbot](https://img.shields.io/badge/Certbot-000000?style=flat-square&logo=certbot&logoColor=white)
+![OpenSSH](https://img.shields.io/badge/OpenSSH-000000?style=flat-square&logo=openssh&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
@@ -86,10 +92,9 @@ _Deployments, CI/CD pipelines, testing, monitoring, and developer experience._
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-111827?style=flat-square)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=flat-square&logo=namecheap&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS_Management-0F172A?style=flat-square)
-![SSL](https://img.shields.io/badge/SSL_TLS-334155?style=flat-square)
-![Domain Hosting](https://img.shields.io/badge/Domain_&_Hosting-64748B?style=flat-square)
+![SSL](https://img.shields.io/badge/SSL_/_TLS-334155?style=flat-square)
+![VPS / Hosting](https://img.shields.io/badge/VPS_&_Hosting-64748B?style=flat-square)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
@@ -98,11 +103,9 @@ _Deployments, CI/CD pipelines, testing, monitoring, and developer experience._
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-111827?style=flat-square)
-![Pixel Perfect](https://img.shields.io/badge/Pixel_Perfect-0F172A?style=flat-square)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=black)
 
 ## Product & Delivery
 _Planning, estimation, access control, payments, analytics, SEO, compliance, design handoff._
