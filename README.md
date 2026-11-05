@@ -1,6 +1,6 @@
 # Anna Kotliar
 
-**Software Engineer • Building Scalable Backend & Cloud Systems**
+**Forward Deployed Engineer • Fullstack Lead**
 
 - Full-Stack Developer at **Echocode** — 2+ years
 - **Fullstack Lead** since 2026
