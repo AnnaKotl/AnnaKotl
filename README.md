@@ -46,6 +46,10 @@ _UI architecture, rendering strategies, and performance-focused UX._
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white)
 ![React Toastify](https://img.shields.io/badge/React_Toastify-334155?style=flat-square)
+![CSS Animations](https://img.shields.io/badge/CSS_Animations-1572B6?style=flat-square)
+![Parallax / Scroll](https://img.shields.io/badge/Parallax_·_Scroll_Effects-0F172A?style=flat-square)
+![Reduced Motion](https://img.shields.io/badge/prefers--reduced--motion-334155?style=flat-square)
+![Art Direction](https://img.shields.io/badge/Art--Directed_Images_(AVIF/WebP)-111827?style=flat-square)
 
 ## Backend
 _API design, authentication, validation, and production reliability._
@@ -71,6 +75,12 @@ _API design, authentication, validation, and production reliability._
 ![Diia](https://img.shields.io/badge/Diia_(UA_eID)-1E4FD6?style=flat-square)
 ![dotenv](https://img.shields.io/badge/dotenv-111827?style=flat-square)
 ![Morgan](https://img.shields.io/badge/Morgan-0F172A?style=flat-square)
+![monobank Acquiring](https://img.shields.io/badge/monobank_Acquiring-000000?style=flat-square)
+![Nova Poshta API](https://img.shields.io/badge/Nova_Poshta_API-DA291C?style=flat-square)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-0F172A?style=flat-square)
+![SMTP](https://img.shields.io/badge/SMTP-334155?style=flat-square)
+![Firestore](https://img.shields.io/badge/Firestore-F57C00?style=flat-square&logo=firebase&logoColor=white)
+![Idempotency](https://img.shields.io/badge/Idempotency_Keys-7C3AED?style=flat-square)
 
 ## DevOps, Infrastructure, Testing & Tooling
 _Deployments, VPS administration, CI/CD, testing, and production environment setup._
@@ -106,6 +116,12 @@ _Deployments, VPS administration, CI/CD, testing, and production environment set
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![node:test](https://img.shields.io/badge/node:test-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+![SPF / DKIM / DMARC](https://img.shields.io/badge/SPF_·_DKIM_·_DMARC-0F766E?style=flat-square)
+![DNS Cutover](https://img.shields.io/badge/Zero--Downtime_DNS_Cutover-0F172A?style=flat-square)
+![Branch Rulesets](https://img.shields.io/badge/Branch_Protection_&_Rulesets-181717?style=flat-square&logo=github&logoColor=white)
+![Release Management](https://img.shields.io/badge/Release_Management_(SemVer)-3F4551?style=flat-square)
 
 ## Product & Delivery
 _Planning, estimation, access control, payments, analytics, SEO, compliance, design handoff._
@@ -126,6 +142,11 @@ _Planning, estimation, access control, payments, analytics, SEO, compliance, des
 ![Iubenda](https://img.shields.io/badge/Iubenda-16A34A?style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-4285F4?style=flat-square)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
+![Schema.org / JSON-LD](https://img.shields.io/badge/Schema.org_·_JSON--LD-0F172A?style=flat-square)
+![WCAG](https://img.shields.io/badge/WCAG_2.1_AA-005A9C?style=flat-square)
+![hreflang / i18n SEO](https://img.shields.io/badge/hreflang_·_i18n_SEO-4B5563?style=flat-square)
 
 ## Mobile & Cross-Platform
 _Building, monetizing, testing, and deploying cross-platform applications._
